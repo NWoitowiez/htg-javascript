@@ -3,7 +3,7 @@
   --article-shadow-color: rgba(0, 0, 0, .1);
   --bg-color: #FAFAFA;
   --comment-bg-color: #FFF;
-  --font-color: #333;
+  --font-color: rgb(51, 51, 51);
 }
 
 body {
@@ -51,7 +51,7 @@ main {
 }
 
 .comment--text {
-  font-weight: ;
+  font-weight: bold;
 }
 
 @media (prefers-color-scheme: dark) {
